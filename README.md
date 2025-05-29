@@ -107,11 +107,25 @@ Email:    admin@hospital.com
 Senha:    12345678
 ```
 
+
+
+---
+
+## 📚 API Documentation (Swagger)
+
+Interactive API documentation available at:
+http://localhost:8000/api/documentation
+
+You can test endpoints directly, authenticate with a bearer token, and explore all routes.
+
+
+
+
 ---
 
 ## ✅ Próximos passos
 
-- Adicionar documentação Swagger/OpenAPI
+
 - Criar módulos: médicos, agendamentos, relatórios
 - Adicionar testes automatizados e CI pipeline
 
